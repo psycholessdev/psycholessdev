@@ -30,4 +30,5 @@
 
 - Telegram: [@psycholessdev](https://t.me/psycholessdev/)
 - LinkedIn: [@dmitriyklapotovskiy](https://www.linkedin.com/in/dmitriyklapotovskiy/)
+- E-mail: [klapotowskijdata@gmail.com](mailto:klapotowskijdata@gmail.com)
 - Personal website: [psycholess.com](https://psycholess.com/)
