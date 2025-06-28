@@ -1,16 +1,33 @@
-## Hi there 👋
+- 👤 My name is **Dima**
+- 🖥️ I specialize as a **Full-stack Web Developer**, **JavaScript Developer**, **React.js Developer**
+- 🌐 Residing in **Russia**
+- 📗 Languages **Russian**, **English**
 
-<!--
-**psycholessdev/psycholessdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ My Tech Stack
 
-Here are some ideas to get you started:
+![Next.js](./assets/badges/nextjs.svg)
+![Express](./assets/badges/expressjs.svg)
+![Nginx](./assets/badges/nginx.svg)
+![PHP](./assets/badges/php.svg)
+![JavaScript](./assets/badges/javascript.svg)
+![TypeScript](./assets/badges/typescript.svg)
+![React](./assets/badges/react.svg)
+![Redux](./assets/badges/redux.svg)
+![Tailwind](./assets/badges/tailwind.svg)
+![Figma](./assets/badges/figma.svg)
+![Node.js](./assets/badges/nodejs.svg)
+![Sequelize](./assets/badges/sequelize.svg)
+![MySQL](./assets/badges/mysql.svg)
+![PostgreSQL](./assets/badges/postgresql.svg)
+![Docker](./assets/badges/docker.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Open-Source Projects
+
+- [English Repetition App](https://github.com/psycholessdev/engleap) - tool for learning English via Definitions and Spaced Repetition System
+- [Minesweeper game](https://github.com/mind-blowing-devs/mind-blowing-devs)
+
+### 💬 Get in touch
+
+- Telegram: [@psycholessdev](https://t.me/psycholessdev/)
+- LinkedIn: [@dmitriyklapotovskiy](https://www.linkedin.com/in/dmitriyklapotovskiy/)
+- Personal website: [psycholess.com](https://psycholess.com/)
